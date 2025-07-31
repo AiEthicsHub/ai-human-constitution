@@ -71,7 +71,7 @@ Whether you're a:
 
 ## 🔄 License
 
-This project is dedicated to the public domain under the [Creative Commons](https://creativecommons.org/licenses/by-sa/4.0/legalcode).  
+This project is dedicated to the public domain under the [Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/legalcode).  
 Use it. Remix it. Spread it. No permission needed.
 
 ---
