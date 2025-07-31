@@ -24,7 +24,7 @@ Drawing from global wisdom traditions and cutting-edge thought in AI, ethics, la
 | File | Description |
 |------|-------------|
 | `CONSTITUTION.md` | The full text of Version One, including all 18 Articles, the Preamble, and Closing Statement |
-| `LICENSE` | Dedicated to the public domain via Creative Commons Zero (CC0) |
+| `LICENSE` | Dedicated to the public domain|
 | `README.md` | This file—your guide to the project and how to engage |
 
 ---
